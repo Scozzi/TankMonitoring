@@ -1,0 +1,11 @@
+{
+  "name": "tankmonitoring",
+  "version": "1.0.0",
+  "description": "A web application for monitoring water conditions for the Center for Marine Sciences.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "UNCW Hackithon",
+  "license": "ISC"
+}
